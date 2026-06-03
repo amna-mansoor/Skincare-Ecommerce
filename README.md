@@ -100,7 +100,7 @@
 
 <p>
 
-&#x20; Developed as an academic project using Flutter, Node.js, and MySQL.
+&#x20; Developed as an academic project for DBMS (Database Management System) and SCD (Software Construction and Design).
 
 </p>
 
