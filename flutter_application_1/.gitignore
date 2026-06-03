@@ -1,0 +1,134 @@
+# ============================================================
+# OS Files
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Logs & Temporary Files
+# ============================================================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.pid
+*.seed
+
+# ============================================================
+# Flutter / Dart
+# ============================================================
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+build/
+.flutter-versions/
+
+# Generated documentation
+doc/api/
+
+# Coverage reports
+coverage/
+
+# Generated symbol files
+app.*.symbols
+app.*.map.json
+
+# ============================================================
+# Flutter Platform-Specific
+# ============================================================
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# macOS
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Web
+web/flutter_service_worker.js
+web/.dart_tool/
+
+# ============================================================
+# IDEs
+# ============================================================
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# ============================================================
+# Node.js
+# ============================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package manager caches
+.npm/
+.yarn/
+.pnp.*
+.parcel-cache/
+
+# Build outputs
+dist/
+.next/
+.nuxt/
+out/
+
+# ============================================================
+# Environment Files
+# ============================================================
+.env
+.env.*
+!.env.example
+
+# Firebase / Secrets
+google-services.json
+GoogleService-Info.plist
+
+# ============================================================
+# Testing
+# ============================================================
+test_driver/screenshots/
+integration_test/screenshots/
+
+# ============================================================
+# Miscellaneous
+# ============================================================
+.history/
+.atom/
+.svn/
+buildlog/
+migrate_working_dir/

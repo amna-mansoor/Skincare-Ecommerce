@@ -1,0 +1,91 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.6
+  device_preview: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/image.jpg
+    - assets/images/image2.jpg
+    - assets/images/image3.jpg
+    - assets/images/image4.jpg
+    - assets/images/image5.jpg
+    - assets/images/image6.jpg
+    - assets/images/image7.jpg
+    - assets/images/image8.jpg
+    - assets/images/image9.jpg
+    - assets/images/istockphoto-1589583543-612x612.jpg
+    - assets/images/istockphoto-1713171995-612x612.jpg
+    - assets/images/istockphoto-2165317742-612x612.jpg
+    - assets/images/light-1.png
+    - assets/images/light-2.png
+    - assets/images/lotion-combination.jpg
+    - assets/images/moisturizer-combination2.jpeg
+    - assets/images/moisturizer-dry.png
+    - assets/images/moisturizer-dry1.jpeg
+    - assets/images/moisturizer-oily.jpeg
+    - assets/images/moisturizer-sensitive.jpeg
+    - assets/images/moisturizerwithspf-normal2.jpeg
+    - assets/images/Moisturizing-lotion-dry.png
+    - assets/images/photo-1655865556450-98430857f6b1.jpeg
+    - assets/images/photo-1670201203326-8b4f88e4a5e9.jpeg
+    - assets/images/premium_photo-1680740103875-048f39fe05d7.jpeg
+    - assets/images/serum-combination1.jpeg
+    - assets/images/serum-dry2.jpeg
+    - assets/images/serum-normal.jpg
+    - assets/images/serum-normal2.jpeg
+    - assets/images/serum-oily.jpeg
+    - assets/images/serum-sensitive.jpg
+    - assets/images/spf-oily.jpeg
+    - assets/images/spot-treatment-combination.jpeg
+    - assets/images/sunscreen-senstive.jpeg
+    - assets/images/toner-combination2.jpeg
+    - assets/images/toner-dry1.jpeg
+    - assets/images/toner-normal.jpg
+    - assets/images/toner-normal3.jpeg
+    - assets/images/toner-oily2.jpeg
+    - assets/images/toner-sensitive.jpg
+    - assets/images/toner-sensitive2.jpeg
+    - assets/images/vitaminCSerum-dry.png
+    - assets/images/background.png
+    - assets/images/brightening-serum-normal.jpeg
+    - assets/images/cleanser-combination.jpg
+    - assets/images/cleanser-combination1.jpeg
+    - assets/images/cleanser-combination3.jpeg
+    - assets/images/cleanser-dry1.jpeg
+    - assets/images/cleanser-normal.jpg
+    - assets/images/cleanser-sensitive-2.jpeg
+    - assets/images/clock.png
+    - assets/images/eye-serum-sensitive3.jpeg
+    - assets/images/face-cleanser-dry.jpeg
+    - assets/images/face-cream-combination.jpg
+    - assets/images/face-cream-oily2.jpeg
+    - assets/images/face-cream-oily3.jpeg
+    - assets/images/face-cream-sensitive.jpeg
+    - assets/images/facewash-combination.jpg
+    - assets/images/hydrating-cleanser-dry.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
