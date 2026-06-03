@@ -1,86 +1,106 @@
-\# <h1>Skincare E-Commerce Mobile Application</h1>
+<h1>Skincare E-Commerce Mobile Application</h1>
 
 
 
-\## Introduction
+<p>
+
+&#x20; This project is a skincare-focused e-commerce mobile application developed to provide users with a personalized shopping experience for skincare products.
+
+&#x20; The application helps users discover and purchase products based on their age, skin type, allergies, weather conditions, and brand preferences.
+
+&#x20; It offers a user-friendly interface and essential e-commerce features to enhance customer satisfaction and convenience.
+
+</p>
 
 
 
-This project is a skincare-focused e-commerce mobile application developed to provide users with a personalized shopping experience for skincare products. The application helps users discover and purchase products based on their age, skin type, allergies, weather conditions, and brand preferences. It offers a user-friendly interface and essential e-commerce features to enhance customer satisfaction and convenience.
+<h2>Technologies Used</h2>
 
 
 
-\## Features
+<h3>Front-End</h3>
+
+<ul>
+
+&#x20; <li>Flutter</li>
+
+</ul>
 
 
 
-\* User Registration and Login
+<h3>Back-End</h3>
 
-\* Skin Type Selection
+<ul>
 
-\* Product Browsing and Searching
+&#x20; <li>Node.js</li>
 
-\* Product Filters (Age, Allergies, Weather, Brand Preferences)
-
-\* Add to Wishlist
-
-\* Favorite Products
-
-\* Product Reviews and Ratings
-
-\* Place Orders and Checkout
-
-\* Order History
-
-\* Recently Viewed Products
-
-\* User Profile Management
-
-\* Customer Service Support
+</ul>
 
 
 
-\## Technologies Used
+<h3>Database</h3>
+
+<ul>
+
+&#x20; <li>MySQL</li>
+
+</ul>
 
 
 
-\### Front-End
+<h2>Features</h2>
 
 
 
-\* Flutter
+<ul>
+
+&#x20; <li>User Registration and Login</li>
+
+&#x20; <li>Skin Type Selection</li>
+
+&#x20; <li>Product Browsing and Searching</li>
+
+&#x20; <li>Product Filters (Age, Allergies, Weather, Brand Preferences)</li>
+
+&#x20; <li>Add to Wishlist</li>
+
+&#x20; <li>Favorite Products</li>
+
+&#x20; <li>Product Reviews and Ratings</li>
+
+&#x20; <li>Place Orders and Checkout</li>
+
+&#x20; <li>Order History</li>
+
+&#x20; <li>Recently Viewed Products</li>
+
+&#x20; <li>User Profile Management</li>
+
+&#x20; <li>Customer Service Support</li>
+
+</ul>
 
 
 
-\### Back-End
+<h2>Purpose</h2>
 
 
 
-\* Node.js
+<p>
+
+&#x20; The goal of this application is to simplify skincare product shopping by providing personalized recommendations and an efficient purchasing experience through a mobile platform.
+
+</p>
 
 
 
-\### Database
+<h2>Contributors</h2>
 
 
 
-\* MySQL
+<p>
 
+&#x20; Developed as an academic project using Flutter, Node.js, and MySQL.
 
-
-\## Purpose
-
-
-
-The goal of this application is to simplify skincare product shopping by providing personalized recommendations and an efficient purchasing experience through a mobile platform.
-
-
-
-\## Contributors
-
-
-
-Developed as an academic project using Flutter, Node.js, and MySQL.
-
-
+</p>
 
